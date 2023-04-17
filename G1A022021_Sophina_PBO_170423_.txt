@@ -1,0 +1,17 @@
+Nama	: Sophina Shafa Salsabila
+NPM	: G1A022021
+Kelas	: A
+Pemograman Berorientasi Objek
+Senin, 17 April 2023
+
+1. Buatlah perbedaan functional programming dan object oriented programming dalam bahasa pemrograman pyhon, serta berikan contoh masing-masing code nya
+   Functional Programming adalah paradigma pemograman yang berfokus pada fungsi sebagai unit dasar untuk memecahkan masalah. Fungsi dalam Functional Programming bersifat stateless, berarti tidak ada variabel yang berubah di luar fungsi itu sendiri untuk menghindari perubahan data yang tidak diinginkan.
+   Object Oriented Programming(OOP) adalah paradigma pemograman yang berfokus pada objek dan interaksi antara objek. Objek dalam OPP adalah representasi dari suatu entitas dalam dunia nyata. Setiap objek memiliki atribut dan metode yang dapat digunakan untuk memanipulasi objek tersebut. Pada OPP memungkinkan penggunaan konsep pewarisan, enkapsulasi, dan polimorfisme.
+   Jadi, Functional programming dan Object Oriented Programming(OOP) adalah paragdima pemograman yang memiliki fokus pendekatan dan penyelesaian masalah yang berbeda. Functional Programming adalah paradigma pemograman yang berfokus pada fungsi sebagai unit dasar untuk memecahkan masalah. Sedangkan, Object Oriented Programming(OOP) adalah paradigma pemograman yang berfokus pada objek dan interaksi antara objek yang memungkinkan penggunaan konsep pewarisan, enkapsulasi dan polimorfisme.
+
+2. Berikan apa saja contoh pengimplementasian dari OOP.
+Contoh dari pengimplementasian OPP adalah:
+1) Robot. Setiap bagian dari robot seperti sensor, motor, dan pengontrol diimplementasikan sebagai objek yang saling berinteraksi.
+2) Game. Karakter, objek, dan fitur dalam game diimplementasikan sebagai objek yang saling berinteraksi yang dimuat menjadi kelas-kelas dan dikembangkan dengan konsep pewarisan dan enkapsulasi.
+3) Aplikasi Mobile seperti media sosial. Setiap fitur dalam aplikasi tersebut diimplementasikan sebagai objek yang saling berinteraksi.
+
