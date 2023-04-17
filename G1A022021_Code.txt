@@ -1,0 +1,37 @@
+# Nama  : Sophina Shafa Salsabila
+# NPM   : G1A022021
+# Kelas : A
+
+# ====== Contoh Fuctional Programming ====== #
+# Fungsi operasi penjumlahan dua bilangan 
+def add(x, y):
+    return x + y
+# Fungsi operasi kuadrat suatu bilangan
+def square(x):
+    return x * x
+# Fungsi operasi faktorial suatu bilangan
+def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n-1)
+# Pemanggilan Fungsi
+print(add(6, 4))        # Output: 10
+print(square(6))        # Output: 36
+print(factorial(5))     # Output: 120
+
+# ===== Contoh Object Oriented Programming ===== #
+# Pendefinisian Kelas
+class Person:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+
+    def say_hello(self):
+        print("Hello, my name is", self.name, "and I'm", self.age, "years old.")
+# Membuat objek dari kelas Person
+person1 = Person("Sophina", 18)
+person2 = Person("Salsabila", 15)
+# Memanggil metode say_hello() pada kelas Person dari objek
+person1.say_hello()     # Output: Hello, my name is Sophina and I'm 18 years old.
+person2.say_hello()     # Output: Hello, my name is Salsabila and I'm 15 years old.
